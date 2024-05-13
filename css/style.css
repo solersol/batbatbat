@@ -633,7 +633,7 @@ p {
     content: '';
     top: 10px;
     left: 0;
-    background: #1d2143;
+    background: #BF40BF;
     z-index: -1;
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;
