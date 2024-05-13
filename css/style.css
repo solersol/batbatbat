@@ -86,7 +86,7 @@ p {
 
 #dark-mode {
     /* Keep the existing background color */
-    background: #000 url('/images/bg.mp4') no-repeat center center fixed;
+    background: #000 url('/images/bg.png') no-repeat center center fixed;
     /* Ensure the background covers the entire viewport */
     background-size: cover;
     overflow-x: hidden;
@@ -105,17 +105,17 @@ p {
 
 
 @font-face {
-    src: url(../fonts/cat.ttf);
+    src: url(../fonts/cambria.ttf);
     font-family: pb;
 }
 
 @font-face {
-    src: url(../fonts/cat.ttf);
+    src: url(../fonts/cambria.ttf);
     font-family: pr;
 }
 
 @font-face {
-    src: url(../fonts/cat.ttf);
+    src: url(../fonts/cambria.ttf);
     font-family: pl;
 }
 
